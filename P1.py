@@ -42,7 +42,6 @@ def calculateWeight():
                 tfVector[token] = tfVector[token] / veclen
     return words
 
-# Function to calculate dfs and idf
 def calculateIdfs():
     for filename, tfVector in words.items():
         for token in tfVector:
