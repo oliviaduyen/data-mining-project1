@@ -1,7 +1,3 @@
-#Olivia Le
-#CSE 5334 - 002
-#Programming 1
-
 import os
 import operator
 import nltk
